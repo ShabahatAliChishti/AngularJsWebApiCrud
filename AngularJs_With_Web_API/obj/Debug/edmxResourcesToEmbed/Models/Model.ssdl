@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="dbModelStoreContainer">
+    <EntitySet Name="Employee" EntityType="dbModel.Store.Employee" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Address" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Country" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="City" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Mobile" Type="nvarchar" Nullable="false" MaxLength="10" />
+  </EntityType>
+  <Function Name="sp_InsUpdDelEmployee" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="id" Type="int" Mode="In" />
+    <Parameter Name="name" Type="nvarchar" Mode="In" />
+    <Parameter Name="address" Type="nvarchar" Mode="In" />
+    <Parameter Name="country" Type="nvarchar" Mode="In" />
+    <Parameter Name="city" Type="nvarchar" Mode="In" />
+    <Parameter Name="mobile" Type="nvarchar" Mode="In" />
+    <Parameter Name="type" Type="varchar" Mode="In" />
+  </Function>
+</Schema>

@@ -1,0 +1,258 @@
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\AngularJs_With_Web_API.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\AngularJs_With_Web_API.pdb
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Antlr3.Runtime.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.AspNet.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.Core.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OAuth.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OpenId.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\EntityFramework.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Data.Edm.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Data.OData.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Web.Infrastructure.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Newtonsoft.Json.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Net.Http.Formatting.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Spatial.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Helpers.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Http.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Http.OData.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Http.WebHost.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Mvc.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Optimization.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Razor.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.WebPages.Deployment.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.WebPages.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.WebPages.Razor.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\WebGrease.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\WebMatrix.Data.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\WebMatrix.WebData.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\EntityFramework.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Newtonsoft.Json.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Net.Http.Formatting.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Helpers.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Http.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Http.WebHost.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Mvc.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Razor.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.WebPages.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.WebPages.Deployment.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.WebPages.Razor.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\WebMatrix.Data.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\WebMatrix.WebData.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.AspNet.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.Core.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OAuth.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OpenId.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Http.OData.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Data.Edm.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Data.OData.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Spatial.xml
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\de\Microsoft.Data.Edm.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\es\Microsoft.Data.Edm.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\it\Microsoft.Data.Edm.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\de\Microsoft.Data.OData.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\es\Microsoft.Data.OData.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\fr\Microsoft.Data.OData.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\it\Microsoft.Data.OData.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ja\Microsoft.Data.OData.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ko\Microsoft.Data.OData.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ru\Microsoft.Data.OData.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\de\System.Spatial.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\es\System.Spatial.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\fr\System.Spatial.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\it\System.Spatial.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ja\System.Spatial.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ko\System.Spatial.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ru\System.Spatial.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\zh-Hans\System.Spatial.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\zh-Hant\System.Spatial.resources.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\obj\Debug\AngularJs_With_Web_API.csprojResolveAssemblyReference.cache
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\obj\Debug\AngularJs_With_Web_API.dll
+E:\ShortProject\AngularJs_With_Web_API\AngularJs_With_Web_API\obj\Debug\AngularJs_With_Web_API.pdb
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\AngularJs_With_Web_API.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\AngularJs_With_Web_API.pdb
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Antlr3.Runtime.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.AspNet.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.Core.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OAuth.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OpenId.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\EntityFramework.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Data.Edm.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Data.OData.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Newtonsoft.Json.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Net.Http.Formatting.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Spatial.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Helpers.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Http.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Http.OData.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Http.WebHost.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Mvc.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Optimization.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Razor.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.WebPages.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.WebPages.Razor.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\WebGrease.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\WebMatrix.Data.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\WebMatrix.WebData.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\EntityFramework.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Newtonsoft.Json.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Net.Http.Formatting.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Helpers.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Http.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Http.WebHost.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Razor.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.WebPages.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.WebPages.Razor.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\WebMatrix.Data.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\WebMatrix.WebData.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.AspNet.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.Core.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OAuth.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OpenId.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Http.OData.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Data.Edm.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Data.OData.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Spatial.xml
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\de\Microsoft.Data.OData.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\es\Microsoft.Data.OData.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\it\Microsoft.Data.OData.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\de\System.Spatial.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\es\System.Spatial.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\fr\System.Spatial.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\it\System.Spatial.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ja\System.Spatial.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ko\System.Spatial.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ru\System.Spatial.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\zh-Hans\System.Spatial.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\zh-Hant\System.Spatial.resources.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\obj\Debug\AngularJs_With_Web_API.dll
+D:\Projects\DOT NET Projects\Web\Sample Code\AngularJs_With_Web_API\AngularJs_With_Web_API\obj\Debug\AngularJs_With_Web_API.pdb
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\AngularJs_With_Web_API.dll.config
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\AngularJs_With_Web_API.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\AngularJs_With_Web_API.pdb
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Antlr3.Runtime.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.AspNet.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.Core.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OAuth.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OpenId.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\EntityFramework.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Data.Edm.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Data.OData.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Web.Infrastructure.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Newtonsoft.Json.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Net.Http.Formatting.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Spatial.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Helpers.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Http.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Http.OData.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Http.WebHost.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Mvc.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Optimization.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Razor.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.WebPages.Deployment.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.WebPages.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.WebPages.Razor.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\WebGrease.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\WebMatrix.Data.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\WebMatrix.WebData.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Org.Mentalis.Security.Cryptography.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Mono.Math.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\EntityFramework.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Newtonsoft.Json.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Net.Http.Formatting.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Helpers.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Http.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Http.WebHost.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Mvc.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Razor.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.WebPages.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.WebPages.Deployment.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.WebPages.Razor.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\WebMatrix.Data.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\WebMatrix.WebData.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.AspNet.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.Core.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OAuth.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OpenId.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Web.Http.OData.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Data.Edm.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Microsoft.Data.OData.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\System.Spatial.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Org.Mentalis.Security.Cryptography.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\Mono.Math.xml
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\de\Microsoft.Data.Edm.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\es\Microsoft.Data.Edm.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\it\Microsoft.Data.Edm.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\de\Microsoft.Data.OData.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\es\Microsoft.Data.OData.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\fr\Microsoft.Data.OData.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\it\Microsoft.Data.OData.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ja\Microsoft.Data.OData.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ko\Microsoft.Data.OData.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ru\Microsoft.Data.OData.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\de\System.Spatial.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\es\System.Spatial.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\fr\System.Spatial.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\it\System.Spatial.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ja\System.Spatial.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ko\System.Spatial.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\ru\System.Spatial.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\zh-Hans\System.Spatial.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\bin\zh-Hant\System.Spatial.resources.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\obj\Debug\AngularJs_With_Web_API.csprojResolveAssemblyReference.cache
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\obj\Debug\AngularJs_With_Web_API.dll
+E:\AngularJs-With-Web-API-SourceCode\AngularJs_With_Web_API\AngularJs_With_Web_API\obj\Debug\AngularJs_With_Web_API.pdb
